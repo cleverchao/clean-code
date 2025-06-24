@@ -1,11 +1,16 @@
 {
-  "name": "clean-code",
+  "name": "clean-vue-code",
   "version": "1.0.0",
   "description": "clean blank lines and comments",
   "main": "clean-code.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "clean-code.js",
+    "package.json",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cleverchao/clean-code.git"
